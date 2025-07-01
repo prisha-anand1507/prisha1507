@@ -1,0 +1,7 @@
+What is DATA?
+Collection of facts, figures, measurements or observations that can be used 
+for analysis, reference or processing.
+
+What is filesystem?
+Filesystem is a method used by an operating system to organise, store and 
+manage data on storage device like SSD, hard druve, USB.
